@@ -1,2 +1,2 @@
 # MachineLeraning
-Machine learning model repository
+Machine learning repository
